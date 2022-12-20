@@ -4,7 +4,7 @@ public // Java program to illustrate the
 
 // base class
 class Bicycle {
-	// the Bicycle class has two fields //
+	// the Bicycle class has two fields 
 	public int gear;
 	public int speed;
 
