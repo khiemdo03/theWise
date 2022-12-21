@@ -1,10 +1,6 @@
-
 // Khiem Do
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Iterator;
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*; 
+
 
 public class Project2 { // Reminder// int inside the loop to loop will die when loop is finished
     public static void main(String[] args) {
