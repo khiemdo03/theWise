@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhiemDo
-- 👀 I’m interested in Bitcoin, Altcoin, barely Shitcoin, tokeneconomics, cryptocurrency in general, ect...
+- 👀 I’m interested in Bitcoin, Altcoin, no Shitcoin, tokeneconomics, cryptocurrency in general, ect...
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on anyone?
+- 💞️ I’m looking to collaborate on anyone.
 - 📫 How to reach me ? Text me then!
 
 <!---
